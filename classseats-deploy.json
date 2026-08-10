@@ -4,8 +4,8 @@
   "domain": "test.classseats.app",
   "deployRepo": "mifish3474/ClassSeats-Desktop-Test",
   "sourceRepository": "mifish3474/ClassSeats-Codex",
-  "sourceRef": "test/fixBugs",
+  "sourceRef": "test/creatorAttribution",
   "sourceSha": "d4ce05a16877f552277c8cbd90259ce65dcb8fd0",
-  "sourceRunId": "31196833793",
+  "sourceRunId": "31421470216",
   "sourceRunAttempt": "1"
 }
